@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+  <!-- Background (transparent) -->
+  <rect width="600" height="300" fill="transparent"/>
+  
+  <!-- Main text "13%" -->
+  <text x="60" y="180" font-family="Georgia, serif" font-size="140" font-weight="bold" fill="#8B1538">13%</text>
+  
+  <!-- Text "d'avenir" -->
+  <text x="60" y="240" font-family="Georgia, serif" font-size="52" font-weight="normal" fill="#8B1538">d'avenir</text>
+  
+  <!-- University logo circle -->
+  <circle cx="480" cy="150" r="70" fill="none" stroke="#AAAAAA" stroke-width="4"/>
+  
+  <!-- University logo "UPC" stylized -->
+  <g transform="translate(430, 120)">
+    <path d="M20 30 L20 60 Q20 70 30 70 L40 70 Q50 70 50 60 L50 30 M20 30 L50 30" stroke="#8B1538" stroke-width="3" fill="none"/>
+    <path d="M60 30 L60 70 M60 30 L90 30 M60 50 L85 50" stroke="#8B1538" stroke-width="3" fill="none"/>
+    <path d="M100 30 Q100 20 110 20 L120 20 Q130 20 130 30 L130 45 Q130 55 120 55 L110 55 Q100 55 100 45 L100 30 M100 70 L100 55" stroke="#8B1538" stroke-width="3" fill="none"/>
+  </g>
+</svg>
